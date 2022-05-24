@@ -20,5 +20,4 @@ You can see the [Certificate of Completion]() (currently taking) and other certi
 <br/>
 
 ### ⚠️ Disclaimer ⚠️
-**Please, don't fork or copy this repository.**
-**This course is very easy and you can complete it with a minimal effort.**
+**This readme was copied from [AllesandroCorradini's](https://github.com/AlessandroCorradini) repository. However, the solutions to the problem sets and the finger exercises are mine.**  
